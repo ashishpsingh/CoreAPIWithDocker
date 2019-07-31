@@ -1,0 +1,14 @@
+C:\Learning\CoreAPI\mydockerapp\obj\Debug\netcoreapp2.2\mydockerapp.csproj.CoreCompileInputs.cache
+C:\Learning\CoreAPI\mydockerapp\obj\Debug\netcoreapp2.2\mydockerapp.AssemblyInfoInputs.cache
+C:\Learning\CoreAPI\mydockerapp\obj\Debug\netcoreapp2.2\mydockerapp.AssemblyInfo.cs
+C:\Learning\CoreAPI\mydockerapp\bin\Debug\netcoreapp2.2\mydockerapp.deps.json
+C:\Learning\CoreAPI\mydockerapp\bin\Debug\netcoreapp2.2\mydockerapp.runtimeconfig.json
+C:\Learning\CoreAPI\mydockerapp\bin\Debug\netcoreapp2.2\mydockerapp.runtimeconfig.dev.json
+C:\Learning\CoreAPI\mydockerapp\bin\Debug\netcoreapp2.2\mydockerapp.dll
+C:\Learning\CoreAPI\mydockerapp\bin\Debug\netcoreapp2.2\mydockerapp.pdb
+C:\Learning\CoreAPI\mydockerapp\obj\Debug\netcoreapp2.2\mydockerapp.RazorAssemblyInfo.cache
+C:\Learning\CoreAPI\mydockerapp\obj\Debug\netcoreapp2.2\mydockerapp.RazorAssemblyInfo.cs
+C:\Learning\CoreAPI\mydockerapp\obj\Debug\netcoreapp2.2\mydockerapp.RazorTargetAssemblyInfo.cache
+C:\Learning\CoreAPI\mydockerapp\obj\Debug\netcoreapp2.2\mydockerapp.dll
+C:\Learning\CoreAPI\mydockerapp\obj\Debug\netcoreapp2.2\mydockerapp.pdb
+C:\Learning\CoreAPI\mydockerapp\obj\Debug\netcoreapp2.2\mydockerapp.csprojAssemblyReference.cache
